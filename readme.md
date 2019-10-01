@@ -1,17 +1,17 @@
 ## Python Websockets and numpy
 
-The example sends via websocket the matrix below to a server.
+This example a matrix to a server using Websocket, the server replies with the inverse matrix.
+
 Pickle  methods *loads* and *dumps* are used to serialize numpy array through the socket.
 
-
+The Matrix:
 ```
 [[ 1  1  1]
  [ 0  2  5]
  [ 2  5 -1]]
 ```
 
-and receives its inverse
-
+and its inverse:
 ```
 [[ 1.28571429 -0.28571429 -0.14285714]
  [-0.47619048  0.14285714  0.23809524]
