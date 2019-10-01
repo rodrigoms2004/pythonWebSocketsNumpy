@@ -72,3 +72,11 @@ Receiving its inverse:
 ### References
 
 [Websockets Getting started](https://websockets.readthedocs.io/en/stable/intro.html)
+
+[Inverse Matrix with Numpy](https://www.tutorialspoint.com/numpy/numpy_inv.htm)
+
+[serialize numpy array with pickle](https://stackoverflow.com/questions/26377023/send-a-multidimensional-numpy-array-over-a-socket/26379564#26379564)
+
+### Copyright
+
+Free use!
